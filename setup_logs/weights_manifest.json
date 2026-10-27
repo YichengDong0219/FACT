@@ -1,0 +1,198 @@
+[
+  {
+    "repo": "Bariona/fact-wam",
+    "revision": "887f66bc0be860ede339bb2843fb3c79a8553278",
+    "file": ".gitattributes",
+    "size": 1519,
+    "sha256": null
+  },
+  {
+    "repo": "Bariona/fact-wam",
+    "revision": "887f66bc0be860ede339bb2843fb3c79a8553278",
+    "file": "README.md",
+    "size": 1361,
+    "sha256": null
+  },
+  {
+    "repo": "Bariona/fact-wam",
+    "revision": "887f66bc0be860ede339bb2843fb3c79a8553278",
+    "file": "norm_stats_delta.json",
+    "size": 5146,
+    "sha256": null
+  },
+  {
+    "repo": "Bariona/fact-wam",
+    "revision": "887f66bc0be860ede339bb2843fb3c79a8553278",
+    "file": "transformer/config.json",
+    "size": 592,
+    "sha256": null
+  },
+  {
+    "repo": "Bariona/fact-wam",
+    "revision": "887f66bc0be860ede339bb2843fb3c79a8553278",
+    "file": "transformer/diffusion_pytorch_model.bin",
+    "size": 10387499812,
+    "sha256": "3c27a3a707cf81acafbd8ce658b509bb8ef0ebbbdef279e544bec3ffdd88437b"
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": ".gitattributes",
+    "size": 1860,
+    "sha256": null
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "README.md",
+    "size": 17633,
+    "sha256": null
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "assets/comp_effic.png",
+    "size": 202156,
+    "sha256": "75ee012dcfb08365bec67a3ec7afc126fc2817f79b9f80e38711792d4770e32b"
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "assets/logo.png",
+    "size": 56322,
+    "sha256": null
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "assets/moe_2.png",
+    "size": 527914,
+    "sha256": "4ea471ccb64349bd08bc9a78f336ae000e9ca3b40da9a652b8028b214a8c6093"
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "assets/moe_arch.png",
+    "size": 74900,
+    "sha256": null
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "assets/performance.png",
+    "size": 306535,
+    "sha256": "97ef99c13c8ae717a8a11c8d8ec927b69077c647cc6689755d08fc38e7fbb830"
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "assets/vae.png",
+    "size": 165486,
+    "sha256": "4aaea5e187f1c5908e15ade5bef24c9fb59882986bc3d2ad75f7fe820f3d772f"
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "examples/i2v_input.JPG",
+    "size": 250628,
+    "sha256": "077e3d965090c9028c69c00931675f42e1acc815c6eb450ab291b3b72d211a8e"
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "model_index.json",
+    "size": 499,
+    "sha256": null
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "scheduler/scheduler_config.json",
+    "size": 820,
+    "sha256": null
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "text_encoder/config.json",
+    "size": 855,
+    "sha256": null
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "text_encoder/model-00001-of-00003.safetensors",
+    "size": 4935812536,
+    "sha256": "a8e861969c7433e707cc5a74065d795d36cca07ec96eb6763eb4083df7248f58"
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "text_encoder/model-00002-of-00003.safetensors",
+    "size": 4983103192,
+    "sha256": "d57d948ece4837d850b7a859a4415121d57cacf8b9ee1d4db200c67f592902d7"
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "text_encoder/model-00003-of-00003.safetensors",
+    "size": 1442935480,
+    "sha256": "0da9ee284e21d1406df708788db1d502d95d75f69faa25cd26151bf8829b7c5f"
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "text_encoder/model.safetensors.index.json",
+    "size": 22476,
+    "sha256": null
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "tokenizer/special_tokens_map.json",
+    "size": 7079,
+    "sha256": null
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "tokenizer/spiece.model",
+    "size": 4548313,
+    "sha256": "e3909a67b780650b35cf529ac782ad2b6b26e6d1f849d3fbb6a872905f452458"
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "tokenizer/tokenizer.json",
+    "size": 16837459,
+    "sha256": "20a46ac256746594ed7e1e3ef733b83fbc5a6f0922aa7480eda961743de080ef"
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "tokenizer/tokenizer_config.json",
+    "size": 61758,
+    "sha256": null
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "vae/config.json",
+    "size": 1701,
+    "sha256": null
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "vae/diffusion_pytorch_model.safetensors",
+    "size": 2818777808,
+    "sha256": "62cd18f19438e35b32ac63020e2852f566e9b02f46b6cdbd87972a356e3c6f4b"
+  },
+  {
+    "repo": "Wan-AI/Wan2.2-TI2V-5B-Diffusers",
+    "revision": "b8fff7315c768468a5333511427288870b2e9635",
+    "file": "transformer/config.json",
+    "size": 495,
+    "sha256": null
+  }
+]

@@ -1,0 +1,9 @@
+lerobot 0.3.2 requires cmake, which is not installed.
+lerobot 0.3.2 requires flask, which is not installed.
+lerobot 0.3.2 requires gymnasium, which is not installed.
+lerobot 0.3.2 requires pynput, which is not installed.
+lerobot 0.3.2 requires pyserial, which is not installed.
+lerobot 0.3.2 requires rerun-sdk, which is not installed.
+lerobot 0.3.2 requires termcolor, which is not installed.
+lerobot 0.3.2 requires torchcodec, which is not installed.
+lerobot 0.3.2 has requirement datasets<=3.6.0,>=2.19.0, but you have datasets 4.8.4.
